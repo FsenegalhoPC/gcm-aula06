@@ -5,5 +5,6 @@ Ferramentas controle de versão
 *CVS
 *SVN
 *Mercurial
+*Perfoce
 *GitHub
 *BitBucket
