@@ -8,6 +8,9 @@ Ferramentas controle de versão
 *SVN
 *Mercurial
 *Clear Case
+*SVN
+*Mercurial
+*Perfoce
 *GitHub
 *BitBucket
 *visual studio services
