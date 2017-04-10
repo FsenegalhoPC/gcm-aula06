@@ -6,5 +6,6 @@ Ferramentas controle de versão
 *Clear Case
 *SVN
 *Mercurial
+*Perfoce
 *GitHub
 *BitBucket
